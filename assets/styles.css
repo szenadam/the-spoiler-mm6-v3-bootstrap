@@ -20,7 +20,8 @@ body {
 }
 
 #ci h3 + ul,
-#ci h3 + ol {
+#ci h3 + ol,
+#mi h3 + ol {
   column-count: 2;
 }
 
@@ -33,7 +34,8 @@ body {
 @media screen and (max-width: 540px) {
   #ns h3 + ol,
   #ci h3 + ul,
-  #ci h3 + ol {
+  #ci h3 + ol,
+  #mi h3 + ol {
     column-count: 1;
   }
 }
