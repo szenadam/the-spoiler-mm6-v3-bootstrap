@@ -24,7 +24,8 @@ body {
 #mi h3 + ol,
 #bb h3 + ol,
 #fh h3 + ol,
-#md h3 + ol {
+#md h3 + ol,
+#fz h3 + ol {
   column-count: 2;
 }
 
@@ -41,7 +42,8 @@ body {
   #mi h3 + ol,
   #bb h3 + ol,
   #fh h3 + ol,
-  #md h3 + ol {
+  #md h3 + ol,
+  #fz h3 + ol {
     column-count: 1;
   }
 }
