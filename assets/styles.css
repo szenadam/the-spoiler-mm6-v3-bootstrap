@@ -27,7 +27,8 @@ body {
 #md h3 + ol,
 #fz h3 + ol,
 #sc h3 + ol,
-#bs h3 + ol {
+#bs h3 + ol,
+#ks h3 + ol {
   column-count: 2;
 }
 
