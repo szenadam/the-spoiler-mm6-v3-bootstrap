@@ -32,6 +32,11 @@ body {
   column-count: 2;
 }
 
+#tq > ol > li,
+#sq > ol > li {
+  margin-bottom: 1.5em;
+}
+
 @media screen and (min-width: 1220px) {
   .world-map {
     width: 1220px;
