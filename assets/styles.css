@@ -49,6 +49,13 @@ body {
   border-collapse: collapse;
 }
 
+/* #gui table,
+#gui th,
+#gui td {
+  border: 1px solid black;
+  border-collapse: collapse;
+} */
+
 #ts table {
   margin-top: 0;
   margin-bottom: 2rem;
