@@ -37,9 +37,23 @@ body {
   margin-bottom: 1.5em;
 }
 
-table, th, td {
+#ts {
+  display: flex;
+  flex-direction: column;
+}
+
+#ts table,
+#ts th,
+#ts td {
   border: 1px solid black;
   border-collapse: collapse;
+}
+
+#ts table {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media screen and (min-width: 1220px) {
