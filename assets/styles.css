@@ -37,18 +37,6 @@ body {
   margin-bottom: 1.5em;
 }
 
-#ts {
-  display: flex;
-  flex-direction: column;
-}
-
-#ts table,
-#ts th,
-#ts td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-
 #ts table {
   margin-top: 0;
   margin-bottom: 2rem;
