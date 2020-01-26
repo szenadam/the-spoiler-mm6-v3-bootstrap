@@ -32,6 +32,10 @@ body {
   column-count: 2;
 }
 
+.dungeon {
+  background-color: rgb(160, 176, 192);
+}
+
 #tq > ol > li,
 #sq > ol > li {
   margin-bottom: 1.5em;
