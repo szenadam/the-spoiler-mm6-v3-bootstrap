@@ -6,6 +6,10 @@ body {
   background-color: #b0c0d0;
 }
 
+#header ul li {
+  font-size: 21px;
+}
+
 .world-map {
   display: grid;
   grid-template-columns: auto auto auto auto auto;
@@ -64,6 +68,10 @@ body {
 }
 
 @media screen and (max-width: 540px) {
+  #header ul li {
+    font-size: 1rem;
+  }
+
   #ns h3 + ol,
   #ci h3 + ul,
   #ci h3 + ol,

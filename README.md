@@ -2,8 +2,9 @@
 
 ## Description
 
-Version 1 by Mike Marcelais, (enhanced) version 2 by J. Pike. This will be version 3 which will only update the code to
-use Bootstrap. This way the site will be a bit more modern and mobile-friendly.
+Version 1 by Mike Marcelais, (enhanced) version 2 by J. Pike. This will be version
+3 which will only update the code to use Bootstrap. This way the site will be a
+bit more modern and mobile-friendly.
 
 ## Other versions
 
